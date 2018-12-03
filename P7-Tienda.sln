@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P7-Tienda", "P7-Tienda\P7-Tienda.csproj", "{6694D2DD-AEE3-479A-82AD-793BB0DDB91C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6694D2DD-AEE3-479A-82AD-793BB0DDB91C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6694D2DD-AEE3-479A-82AD-793BB0DDB91C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6694D2DD-AEE3-479A-82AD-793BB0DDB91C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6694D2DD-AEE3-479A-82AD-793BB0DDB91C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F970CAC-6108-49BF-874E-D23BF7D6F0AC}
+	EndGlobalSection
+EndGlobal
